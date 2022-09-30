@@ -1,0 +1,4 @@
+repository "HiGamesHC@HiGames@cloud"
+  path "/"
+    smartbranch "/main/HG_Blade_Collector_S" 
+     
